@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "Pengyn";
-const description = "The Pengyn collection is 1000 generatable blockchain Pengyns! Check out pengyn.site.xyz to mint your very own.";
+const description = "The Pengyn collection is 100 generatable blockchain Pengyns! All proceeds go to benefit animal care charity and local shelters.  Check out pengyn.site.xyz to mint your very own.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 const layerConfigurations = [
@@ -82,7 +82,7 @@ let CONTRACT_ADDRESS = "YOUR CONTACT ADDRESS"; // If you want to manually includ
 // Generic Metadata is optional if you want to reveal your NFTs
 const GENERIC = false; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
 const GENERIC_TITLE = CONTRACT_NAME; // Replace with what you want the generic titles to say if you want it to be different from the contract name.
-const GENERIC_DESCRIPTION = "The Pengyn collection is 1000 generated blockchain Pengyns as my first venture into NFTs."; // Replace with what you want the generic descriptions to say.
+const GENERIC_DESCRIPTION = "The Pengyn collection is 100 generated blockchain Pengyns as my first venture into NFTs."; // Replace with what you want the generic descriptions to say.
 const GENERIC_IMAGE = "https://ipfs.io/ipfs/QmUf9tDbkqnfHkQaMdFWSGAeXwVXWA61pFED7ypx4hcsfh"; // Replace with your generic image that will display for all NFTs pre-reveal.
 
 // Automatically set contract address if deployed using the deployContract.js script
