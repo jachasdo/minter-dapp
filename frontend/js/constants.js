@@ -1,4 +1,4 @@
-const contractAddress = "0x8570B1e859c00098cFBe00D44D38203b146BC876"; // Replace with your own contract address
+const contractAddress = "0x8570b1e859c00098cfbe00d44d38203b146bc876"; // Replace with your own contract address
 const chain = 'polygon'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the Pengyn NFT Project!";
